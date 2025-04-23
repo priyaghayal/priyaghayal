@@ -2,7 +2,7 @@
 
 🚀 *Software Engineer | Data Analyst | Tech Enthusiast*
 
-Welcome to my GitHub! I'm a passionate and detail-driven Software Engineer and Data Analyst with a Master’s in Software Technology from Hochschule für Technik Stuttgart and 3 years of hands-on experience in building efficient, data-driven applications. I specialize in **Python**, **SQL**, and **Tableau**, and I love turning complex data into clear, actionable strategies that make a real impact.
+Welcome to my GitHub! I'm a passionate and detail-driven Software Engineer and Data Analyst with a Master’s in Software Technology from Hochschule für Technik Stuttgart and 4 years of hands-on experience in building efficient, data-driven applications. I specialize in **Python**, **SQL**, and **Tableau**, and I love turning complex data into clear, actionable strategies that make a real impact.
 
 I’m currently **seeking full-time opportunities** in **Software Engineering** and **Data Analysis** where I can contribute to innovative projects and continue growing as a developer and problem-solver.
 

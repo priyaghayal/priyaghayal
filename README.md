@@ -28,8 +28,8 @@ Git | Docker | Kubernetes | Postman | JIRA | Confluence | Tableau | Power BI
 
 📧 **Email:** priyaghayal28@gmail.com  
 📞 **Phone:** +49 176 14692452  
-🌐 **Portfolio:** [View Portfolio](#)  
-💼 **LinkedIn:** [Your LinkedIn](#)
+🌐 **Portfolio:** [View Portfolio](https://priyaghayal.netlify.app/)  
+💼 **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/priya-ghayal/)
 
 ---
 
